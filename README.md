@@ -1,6 +1,5 @@
 # tsp
 
-
 # Background & Notes
 
 ### Calculating distance between lattitude/longitutide coordinates
